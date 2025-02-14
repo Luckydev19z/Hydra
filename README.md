@@ -1,7 +1,7 @@
 # Feline Framework - A Framework designed for memecoins
 
 <div align="center">
-  <img src="https://your-image-link-here.com/feline-framework.png" width="100%" />
+  <img src="https://github.com/Luckydev19z/FelineFramework/blob/f01dd37419ad73edaa85b5a8d8cdba0414e4b69b/Feline%20Framework.png" width="100%" />
 </div>
 
 ## Table of Contents
