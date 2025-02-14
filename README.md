@@ -1,4 +1,4 @@
-# Feline Framework - A Modular AI System by DEv
+# Feline Framework - A Framework designed for memecoins
 
 <div align="center">
   <img src="https://your-image-link-here.com/feline-framework.png" width="100%" />
