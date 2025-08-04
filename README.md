@@ -1,6 +1,6 @@
 
 
-# Hydra Codex - A Framework Designed for Scalable Innovation
+# Hydra Coinz - A Framework Designed for Scalable Innovation
 
 <div align="center">
   <img src="https://github.com/Luckydev19z/Hydra-Codex/blob/05b9b356517e2cbc48f3333ab32dd9f3bd39bf4b/hydra.png" width="100%" />
